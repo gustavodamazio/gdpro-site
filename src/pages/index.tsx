@@ -117,7 +117,7 @@ export default function Home(): JSX.Element {
         ></ButtonNeon>
         <p>
           Nosso objetivo é ajudar empresas que pensam grande implementando
-          diferencias e automatizando suas tarefas com tecnologia.
+          diferenciais e automatizando suas tarefas com tecnologia.
         </p>
       </Content>
     </Container>
