@@ -13,7 +13,7 @@ import { Container, Content } from '../styles/pages/Home';
 export default function Home(): JSX.Element {
   const links = {
     wpp:
-      'https://api.whatsapp.com/send?phone=5521993658890&text=Ol%C3%A1%20vim%20pelos%20links%20do%20site%2C%20gostaria%20de%20saber%20sobre%3A%20',
+      'https://api.whatsapp.com/send?phone=5521993658990&text=Ol%C3%A1%20vim%20pelos%20links%20do%20site%2C%20gostaria%20de%20saber%20sobre%3A%20',
     instagram: 'https://www.instagram.com/gdpro.software/',
     mail:
       'mailto:contato@gdpro.com.br?subject=GD%20PRO%20link%20contato&body=Olá%20vim%20pelo%20link%20do%20site%20minha%20dúvida%20é:',
